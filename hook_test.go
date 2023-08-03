@@ -9,7 +9,7 @@ import (
 
 	"github.com/hashicorp/vault-client-go"
 	"github.com/hashicorp/vault-client-go/schema"
-	vipervaultinjector "wanmail.github.com/viper-vault-injector"
+	vipervaultinjector "github.com/wanmail/viper-vault-injector"
 )
 
 const (

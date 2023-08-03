@@ -1,4 +1,4 @@
-module wanmail.github.com/viper-vault-injector
+module github.com/wanmail/viper-vault-injector
 
 go 1.18
 

@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/spf13/viper"
-	vipervaultinjector "wanmail.github.com/viper-vault-injector"
+	vipervaultinjector "github.com/wanmail/viper-vault-injector"
 )
 
 func ExampleStringToVaultSecretHookFunc() {
